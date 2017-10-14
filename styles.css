@@ -1,5 +1,8 @@
     body{
         background-image:url("/assignment3/imgs/car.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;     
         color:black;
         position:relative;
     }
@@ -28,4 +31,7 @@
         margin-right:auto;
         margin-left:auto;
         text-align:center;
+    }
+    h3{
+        background-color:white;
     }

@@ -29,8 +29,8 @@
     
     $score = 0;
     
-    if($answer1 == "A"){$score++;}
-    if($answer2 == "B"){$score++;}
+    if($answer1 == "B"){$score++;}
+    if($answer2 == "A"){$score++;}
     if($answer3 == "C"){$score++;}
     
     echo"<font face='Berlin Sans FB' size='10'>YOUR SCORE IS <br>".$score."/3"."</font>";
