@@ -4,7 +4,7 @@
         <style>
             @import url("./styles.css");
             body{
-                background-image:url("/assignment3/imgs/car.jpg");
+                background-image:url("./car.jpg");
             }
             </style>
         <title>Subaru quiz</title>

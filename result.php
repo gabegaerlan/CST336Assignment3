@@ -2,7 +2,7 @@
 <html>
     <head>
         <style>
-            @import url('/assignment3/styles.css');
+            @import url('./styles.css');
         </style>
     </head>
     <?php
