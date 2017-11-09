@@ -3,6 +3,9 @@
     <head>
         <style>
             @import url("./styles.css");
+            body{
+                background-image:url("/assignment3/imgs/car.jpg");
+            }
             </style>
         <title>Subaru quiz</title>
     </head>
